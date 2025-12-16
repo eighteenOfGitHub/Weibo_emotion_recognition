@@ -117,6 +117,4 @@ __pycache__/
 
 ✅ 使用建议  
 
-代码参考
-
-![Training Curve](log/TextCNN.png)
+深度学习入门落地
