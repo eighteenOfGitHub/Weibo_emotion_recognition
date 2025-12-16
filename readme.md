@@ -7,15 +7,15 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12%2B-orange)](https://pytorch.org/)  
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
   
-🔧 功能特性
-🕷️ 自动爬取：使用 Selenium 爬取微博搜索结果下的评论（需扫码登录）
-🧹 智能清洗：去除 @用户、链接、表情符号、重复叠词等噪声
-🧠 双模型支持：
-BiRNN（双向 RNN）
-TextCNN（多尺度卷积）
-📈 全面评估：准确率、精确率、召回率、F1、混淆矩阵、错误分析
-🌐 Web 应用：基于 Gradio 的交互式情感分析界面
-📊 可视化报告：生成错误样本统计图表与高频词分析
+🔧 功能特性  
+🕷️ 自动爬取：使用 Selenium 爬取微博搜索结果下的评论（需扫码登录）  
+🧹 智能清洗：去除 @用户、链接、表情符号、重复叠词等噪声  
+🧠 双模型支持：  
+BiRNN（双向 RNN）  
+TextCNN（多尺度卷积）  
+📈 全面评估：准确率、精确率、召回率、F1、混淆矩阵、错误分析  
+🌐 Web 应用：基于 Gradio 的交互式情感分析界面  
+📊 可视化报告：生成错误样本统计图表与高频词分析  
 
 📁 项目结构
 
