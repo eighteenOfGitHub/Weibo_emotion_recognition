@@ -3,3 +3,6 @@ _pycache_
 .data/._____temp/
 .model/__pycache__/
 weights/
+weights.zip
+*.pt
+*.pth
