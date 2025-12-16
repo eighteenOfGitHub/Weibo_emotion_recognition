@@ -1,0 +1,4 @@
+.vscode\
+_pycache_
+.data/._____temp/
+.model/__pycache__/
