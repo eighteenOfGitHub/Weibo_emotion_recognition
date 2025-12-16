@@ -1,12 +1,12 @@
 
-# 📊 微博情感分析系统（Weibo Emotion Recognition）
-基于深度学习的中文微博评论情感分析工具，支持 积极/消极 二分类。
-包含数据爬取、清洗、模型训练（BiRNN / TextCNN）、评估、预测及 Web 可视化界面。
+# 📊 微博情感分析系统（Weibo Emotion Recognition）   
+基于深度学习的中文微博评论情感分析工具，支持 积极/消极 二分类。  
+包含数据爬取、清洗、模型训练（BiRNN / TextCNN）、评估、预测及 Web 可视化界面。  
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.12%2B-orange)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)  
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.12%2B-orange)](https://pytorch.org/)  
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
+  
 🔧 功能特性
 🕷️ 自动爬取：使用 Selenium 爬取微博搜索结果下的评论（需扫码登录）
 🧹 智能清洗：去除 @用户、链接、表情符号、重复叠词等噪声
